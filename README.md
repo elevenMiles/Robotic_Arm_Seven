@@ -8,6 +8,12 @@ A 3-DOF (Degrees of Freedom) robotic arm built with 3D-printed parts and SG90 se
 
 ---
 
+## Assembly Guide
+
+[![Assembly Guide](https://img.youtube.com/vi/ZC04lUFtJYI/maxresdefault.jpg)](https://youtu.be/ZC04lUFtJYI?si=HDjUfc8iGIEtEkAY)
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
