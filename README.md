@@ -7,6 +7,8 @@
 A 3-DOF (Degrees of Freedom) robotic arm built with 3D-printed parts and SG90 servo motors, controlled via an Arduino Uno over serial communication. Seven supports **manual joint control**, **inverse kinematics**, **gripper control**, **waypoint list programming**, and **external software integration** via a handshake protocol.
 
 ---
+![Seven Robotic Arm Demo](photos/demo.gif)
+---
 
 ## Assembly Guide
 
