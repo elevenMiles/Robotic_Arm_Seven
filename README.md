@@ -1,4 +1,5 @@
-# Sponsors
+---
+# Supported by
 
 <img src="photos/NextPCB.png" width="180" alt="NextPCB"/>
 
