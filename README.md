@@ -1,3 +1,10 @@
+<img src="photos/NextPCB.png" width="120" alt="NextPCB"/>
+
+> 🙏 Thanks to **NextPCB** for sponsoring this project with a financial grant – they're my first sponsor! If you ever need PCB or PCBA services, check them out using the link below.
+> -> https://www.nextpcb.com?code=eleven!
+
+---
+
 # Seven — 3-DOF Arduino Robotic Arm
 
 > **⚠️ Safety Warning:** This project features a custom power supply setup. Please proceed at your own risk. I am not responsible for any damage to your components, your board, or yourself. Work carefully, and stay safe.
