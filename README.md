@@ -1,7 +1,7 @@
 <img src="photos/NextPCB.png" width="240" alt="NextPCB"/>
 
 > 🙏 Thanks to **NextPCB** for sponsoring this project with a financial grant – they're my first sponsor! If you ever need PCB or PCBA services, check them out using the link below.
-> -> https://www.nextpcb.com?code=eleven!
+> -> https://www.nextpcb.com/?code=eleven
 
 ---
 
