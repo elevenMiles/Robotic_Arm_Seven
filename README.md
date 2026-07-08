@@ -342,4 +342,4 @@ seven_github/
 
 ---
 
-*Author: Selçuk Yüksel*
+*Author: T. Selçuk Yüksel*
